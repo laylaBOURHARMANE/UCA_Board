@@ -82,3 +82,6 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 Maintained by Fabien Ferrero
 
+# Project workflow 
+## steps to reproduce 
+TODO
